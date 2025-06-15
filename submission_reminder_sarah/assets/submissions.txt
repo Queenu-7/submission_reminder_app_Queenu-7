@@ -1,7 +1,0 @@
-student,assignment,submission status,days remaining
-Mutoni,Shell navigation,submitted,2
-Kagabo,SLTD,not submitted,3
-Tom,Empathy in leadership,submitted, 5
-Marc,Python,submitted,0
-Uwase,Github navigation,not submitted,4
-Makuza,Java script,submitted,1
